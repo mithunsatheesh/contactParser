@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.view_main
+{
+margin:auto;
+width:575px;
+padding:10px 0 0 0;
+
+}
+
+.view_div
+{
+float:left;
+width:575px;
+margin:0px;
+padding:0px;
+font-family:Arial;
+font-size:22px;
+color:#000000;
+font-weight:normal;
+}
+.table_div
+{
+float:left;
+width:575px;
+padding-top:20px;
+}
+
+.main_table
+{
+font-family:Arial;
+font-size:12px;
+color:#000000;
+font-weight:bold;
+}
+.main_table2
+{
+font-family:Arial;
+font-size:12px;
+color:#ab99bc;
+font-weight:normal;
+}
+
+.brdr
+{
+border-bottom:1px dotted #ab99bc;
+}
+.name_table
+{
+border:1px solid #cccccc;
+font-family:Arial;
+font-size:12px;
+color:#666666;
+font-weight:normal;
+}
+
+.contxtbox3
+{
+height:18px;
+border:1px thin;
+color:#999;
+}
+
+.edit_contact
+{
+	background:url(../images/savechang.gif);
+	width:105px;
+	height:25px;
+}
+
+.edit_contact:hover
+{
+	background:url(../images/savechangrv.gif);
+}
+
+.inputvisible
+{
+	border:0px;
+	color:#999;
+	width:200px;
+}
+
+.textcontrols1_invalid
+{
+		border:1px #FF0000 solid;
+		color:#F00;
+}
+	
+.validationmessage_invalid
+{
+		color:#F00;
+		font-weight:normal;
+}
+

@@ -1,0 +1,24 @@
+h1. csv, vcf and txt contact file parser with php
+
+*Author:* "Mithun Satheesh"
+
+
+h2. About
+
+This is a contact file parser + interface developed using php and ajax. Application allows various users to import their files, perform view/edit actions on the imported contacts and mail a user developed content across to selected contacts.
+Also allows the category wise sort/search for large contact import lists using ajax.
+
+h2. Browser Support
+
+Tested on IE6, Firefox 3.0 + , Chrome & Safari 
+
+h2. Use
+
+Find the MySQL database in the database folder and import it to a new database created with name 'contact_importer'. Some test files are present in the test folder using which you can test the application.
+
+h2.Note
+This is just a working sample. Its a code part generated for a separate application. May be used for reference.
+
+h2. Changelog
+
+*Contact Parser

@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.third_main
+{
+margin:auto;
+width:950px;
+padding:10px 0 0 0;
+
+}
+
+.text_div
+{
+float:left;
+width:625px;
+margin:0px;
+padding:10px 0 5px 0;
+font-family:Arial;
+font-size:12px;
+color:#000000;
+font-weight:normal;
+}
+.select_maindiv
+{
+float:left;
+width:625px;
+padding:0px;
+margin:0px;
+}
+
+.selectdiv
+{
+float:left;
+width:625px;
+border:1px solid #666666;
+padding:0px;
+margin:0px;
+}
+
+.select_all
+{
+float:left;
+width:587px;
+padding:5px 0 0 38px;
+background-color:#eeeeee;
+height:25px;
+margin:0px;
+
+}
+.select_allinner
+{
+float:left;
+width:572px;
+overflow-y: auto;
+overflow-x: hidden;
+padding:5px 15px 0 38px;
+margin:0px;
+height:400px;
+}
+
+
+.select_table1
+{
+font-family:Arial;
+color:#666666;
+font-size:12px;
+font-weight:normal;
+}
+
+.brdrline
+{
+border-bottom:1px solid #cccccc;
+}
+
+.viewdetail
+{
+font-family:Arial;
+font-size:10px;
+font-weight:normal;
+color:#306095;
+}
+
+.viewdetail a
+{
+font-family:Arial;
+font-size:10px;
+font-weight:normal;
+color:#306095;
+text-decoration:none;
+}
+
+.viewdetail a:hover
+{
+color:#000;
+}
+.ab_div
+{
+float:left;
+width:27px;
+margin-top:29px;
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+color:#0066a9;
+}
+.leftbrdr
+{
+border-left:1px solid #989898;
+}
+
+.deltbutt
+{
+float:left;
+width:625px;
+margin:0px;
+padding-top:5px;
+height:25px;
+}
+.but1
+{
+float:left;
+width:160px;
+}
+.but2
+{
+float:right;
+width:150px;
+}
+
+.rtemail
+{
+float:right;
+width:280px;
+padding-top:25px;
+
+}
+.mailbrdr
+{
+border:1px solid #000000;
+}
+
+.fonter
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:10px;
+}
+
+.highlighter:hover
+{
+	background-color:#FFC;
+	cursor:pointer;
+}
+
+.deletebtn
+{
+	background:url(../images/delete.gif) 0px 0px no-repeat;
+	width:157px;
+	height:23px;
+	border:none;
+}
+
+.deletebtn:hover
+{
+	background:url(../images/deleterv.gif) 0px 0px no-repeat;
+}
+
+.buttonstyle
+{
+	cursor:pointer;	
+}
+
+.inviterbtn
+{
+	background:url(../images/invit.gif) 0px 0px no-repeat;
+	width:150px;
+	height:23px;
+	border:none;
+}
+
+.inviterbtn:hover
+{
+	background:url(../images/invitrv.gif) 0px 0px no-repeat;
+}
+
+
